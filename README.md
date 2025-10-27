@@ -48,16 +48,16 @@ Membuat program Python untuk <b>mengurutkan beberapa data angka</b> berdasarkan 
 
 ## cara membuat file program 
 <pre><ul><li>Buka Visual Studio Code (VSC) di laptop
-<li>buka open folder dan buat folder baru di file explorer dan mau masukin foldernya di bagian file mana.
-<li>Contoh filenya misalkan (Praktikum.2)
+<li> buat folder baru di file manejer 
+<li>Contoh filenya misalkan (Latihan2.py)
 <li>masukan filenya ke visual studio code.
-<li>dan buatkan file praktikum.3 itu dengan file baru lagi dibawahnya, dengan menekan folder/file baru di bagian kanan menu praktikum.3.</pre>
+<li>dan buatkan file Latihan2.py itu di bagian VSC yang sudah dibuat</pre>
 
 ## Menginput Program
 <pre><li>ketika sudah buatkan foldernya selanjutnya masukan kode program pythonnya dan jalankan programnya.
 <li>tetukan hasil programnya di bagian terminal.
 <li><b>contoh pada gambar di bawah ini.</pre>
-Contoh Bagian Bilangan Proramnya
+### Contoh Pada Bagian Bawah Ini
 <pre>print("Program mengurutkan data")
 
 n = int(input("Masukkan jumlah bilangan (minimal 3): "))
